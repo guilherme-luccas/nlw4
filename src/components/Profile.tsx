@@ -8,7 +8,6 @@ export function Profile() {
       <img src="https://github.com/guilherme-luccas.png" alt="foto de perfil" />
       <div>
         <strong>Guilherme Luccas</strong>
-
         <p>
           <img src="icons/level.svg" alt="level" />
           Level {level}
